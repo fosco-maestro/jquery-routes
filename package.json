@@ -13,8 +13,6 @@
     "type": "git",
     "url": "git://github.com/laruche/jquery-routes"
   },
-  "bin": {
-    "bower": "bin/bower"
-  },
+  "main": "jquery.routes.js",
   "preferGlobal": true
 }
